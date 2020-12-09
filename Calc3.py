@@ -7,3 +7,4 @@ def add(*x):
   
 if __name__=='__main__':
 	print(add(5,10,15,0))
+	print('End!')
